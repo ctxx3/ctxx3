@@ -1,7 +1,7 @@
 # Hey, I'm ctx3 👋
 
 🎯 21 y/o fullstack developer from Poland  
-💼 2+ years of experience building web apps with PHP (mostly Laravel)  
+💼 2+ years of experience building web apps with Next.js and Laravel 
 🎨 UI design enthusiast & frontend tinkerer  
 📦 Most of my work is private, but trust me I know stuff
 
@@ -28,7 +28,7 @@ I can't count how many hours I've spent rewriting the same function just to opti
 
 ## 🔗 Find Me Elsewhere
 
-- 🌍 [ctx3.com](https://ctx3.com) *(work in progress, one day it will work)*
+- 🌍 [ctx3.com](https://ctx3.com)
 - 🐦 Discord: @ctx3
 
 ---
